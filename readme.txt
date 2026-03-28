@@ -1,6 +1,7 @@
 Pablo Galvan Garcia
 galvanciux@gmail.com
 -------------------------------
+Configurar .env con las API_KEY 
 
 # 1. Crear entorno virtual
 python -m venv venv_kala
@@ -13,4 +14,5 @@ pip install chromadb sentence-transformers google-generativeai openai python-dot
 
 # 4. Ejecutar
 python interfaz.py
+
 
