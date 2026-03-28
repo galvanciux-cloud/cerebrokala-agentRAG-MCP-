@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@ai-sdk/openai": "^3.0.48",
+    "@openrouter/sdk": "^0.10.2",
+    "ai": "^6.0.141"
+  }
+}
